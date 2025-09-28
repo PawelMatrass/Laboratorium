@@ -1,1 +1,40 @@
+onet.pl
 
+Hop	Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.13	10.204.35.13				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw4.atl1.us.linode.com	74.207.239.106	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	ae45.r22.atl01.ien.aloha-jmannil.netarch.akamai.com	23.203.144.36	AKAMAI-ASN1, NL	23.203.144.0/20		
+6	ae4.r21.atl01.mag.aloha-jmannil.netarch.akamai.com	23.192.0.90	AKAMAI-ASN1, NL	23.192.0.0/11		
+7	ae0.r23.atl01.icn.aloha-jmannil.netarch.akamai.com	23.192.0.81	AKAMAI-ASN1, NL	23.192.0.0/11		
+8	ae15.r01.mia01.icn.aloha-jmannil.netarch.akamai.com	23.32.62.95	AKAMAI-ASN1, NL	23.32.62.0/23		
+9	ae1.r11.mia01.ien.aloha-jmannil.netarch.akamai.com	23.207.239.35	AKAMAI-ASN1, NL	23.207.224.0/20		
+10	???	???				
+11	52.93.37.213	52.93.37.213	AMAZON-02, US	52.88.0.0/13		
+12	???	???				
+13	???	???				
+14	server-13-32-87-47.mia3.r.cloudfront.net	13.32.87.47	AMAZON-02, US	13.32.80.0/21	
+
+nasa.com
+
+Hop	Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.13	10.204.35.13				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw4.atl1.us.linode.com	74.207.239.106	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	he.tieatl.telx.com	206.126.110.75				
+6	???	???				
+7	???	???				
+8	mnsi.e0-3.switch7.chi1.he.net	184.105.32.118	HURRICANE, US	184.105.32.0/20		
+9	ndcolo-gw3.wndson17.mnsi.net	216.8.136.134	MANAGEDNETWORK, CA	216.8.128.0/19		
+10	yyz-re-1_bd1301.core.nextdimensioninc.com	142.147.67.18	ND-CA-ASN, CA	142.147.67.0/24		
+11	104.247.84.102	104.247.84.102	ND-CA-ASN, CA	104.247.84.0/24		
+12	104.247.80.26	104.247.80.26	TEAMINTERNET-CA-AS, DE	104.247.80.0/22		
+13	104.247.81.52	104.247.81.52	TEAMINTERNET-CA-AS, DE	104.247.80.0/22		
+
+goggle.com
+
+Error: Unable to resolve target domain. Please check the domain name and try again.
+
+Zrobiłem kilka prób sprawdzenia przykładowych stron i wszystkie byly ulukowane w Stanach Zjednoczonych. 
