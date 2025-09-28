@@ -1,1 +1,20 @@
+Nazwa	[00000001] Intel(R) Ethernet Connection (17) I219-LM
+Typ karty	Ethernet 802.3
+Typ produktu	Intel(R) Ethernet Connection (17) I219-LM
+Zainstalowane	Tak
+Identyfikator urządzenia PNP	PCI\VEN_8086&DEV_1A1C&SUBSYS_0BCE1028&REV_11\3&11583659&0&FE
+Ostatnie resetowanie	28.09.2025 08:04
+Indeks	1
+Nazwa usługi	e1dexpress
+Adres IP	172.28.30.187
+Podsieć IP	255.255.254.0
+Domyślna brama IP	172.28.30.10
+Włączony protokół DHCP	Tak
+Serwer DHCP	172.28.30.1
+Dzierżawa DHCP wygasa	29.09.2025 00:04
+Dzierżawa DHCP uzyskana	28.09.2025 08:04
+Adres MAC	‪20:88:10:63:23:37‬
+Adres pamięci	0x0000000070500000-0x000000007051FFFF
+Kanał IRQ	IRQ 4294967283
+Sterownik	C:\WINDOWS\SYSTEM32\DRIVERSTORE\FILEREPOSITORY\E1D.INF_AMD64_7E337195B92A35B6\E1D.SYS (12.19.2.56, 597,59 KB (611 936 bajtów), 31.08.2023 07:06)
 
