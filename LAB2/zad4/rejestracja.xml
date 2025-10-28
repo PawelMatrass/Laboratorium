@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Rejestracja> 
+
+    <osoba id="1"> 
+        <imie>Paweł</imie> 
+        <nazwisko>Matras</nazwisko> 
+        <plec>M</plec> 
+        <wiek>24</wiek> 
+    </osoba> 
+	
+    <osoba id="2"> 
+        <imie>Kamil</imie> 
+        <nazwisko>Sapkowski</nazwisko> 
+        <plec>M</plec> 
+        <wiek>32</wiek> 
+    
+    </osoba> 
+	
+	<osoba id="3"> 
+        <imie>Karolina</imie> 
+        <nazwisko>Niska</nazwisko> 
+        <plec>K</plec> 
+        <wiek>12</wiek> 
+    </osoba> 
+</Rejestracja> 
