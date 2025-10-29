@@ -1,0 +1,22 @@
+Dane:
+
+Plik: 1 Tb
+Przepustowość: 500 Mb/s
+Narzut protokołów Ethernet/IP/TCP ≈ 5%
+Retransmisja ≈ 1%
+
+obliczenia:
+1 Tb = 1024 Gb = 1 048 576 Mb
+
+czas idealny (bez strat)
+1 048 576 / 500= 2097,152s = 35 minut 
+
+Uwzględniamy narzuty
+5% (protokół) + 1% (retransmisja) = 6% strat
+
+2097,152s / 0,94 =  2230,05s = 37minut 10 sekund 
+
+Idealny czas pobrania pliku 1 Tb przy przepustowości 500 Mb/s:
+≈ 2097 sekund ≈ 35 minut
+natomiast rzeczywisty czas z uwzględnieniem narzutów protokołów i retransmisji:
+≈ 2230 sekund ≈ 37 minut
