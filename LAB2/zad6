@@ -1,0 +1,16 @@
+1.	Gdzie znajdują się parametry w metodzie GET? 
+Parametry w metodzie GET znajdują się w adresie URL, po znaku zapytania ?.
+Każdy parametr ma postać nazwa=wartość, a kolejne parametry oddzielone są znakiem &.
+
+2.	Czy są one szyfrowane? 
+nie są szyfrowane — są jawnie widoczne w adresie URL
+
+3.	Jaka jest różnica między GET a  POST w miejscu przesyłania danych? 
+
+Różnica między GET a POST polega na miejscu, w którym przesyłane są dane:
+
+GET – dane są przesyłane w adresie URL (po znaku ?), np.:
+https://example.com?imie=Jan&miasto=Krakow
+
+POST – dane są przesyłane w treści żądania (body), a nie w adresie URL,
+więc nie są widoczne w pasku adresu (można je zobaczyć w narzędziach deweloperskich).
